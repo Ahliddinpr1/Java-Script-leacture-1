@@ -1,1 +1,1 @@
-# Java-script-leacture-1
+# Java-Script-leacture-1
