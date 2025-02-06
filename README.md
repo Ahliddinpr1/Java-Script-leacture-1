@@ -1,4 +1,41 @@
-# Java-Script-leacture-1
-Java is script is most popular programming lenguage.
-Javascript allows us to give a dynamic effect to our website.
-Java script is included in the group of C languages but Java script is a dynamic language while other languages ​​are static.
+# **[JavaScript]()**
+**Небольшая информация об одном из самых известных языков программирования - **[JavaScript]()** (JS)**
+
+---
+
+![js.image](https://www.infoworld.com/wp-content/uploads/2024/06/shutterstock_1361674454-100939444-orig.jpg?quality=50&strip=all)
+
+---
+
+## Введение
+
+***[JavaScript]()** представляет собой динамический язык который придаёт функционал веб-сайту. **[JavaScript]()** изпользуется в 90% всех веб-сайтов в интеренете.*
+
+### Основные преимущества: 
+- **динамическая типизация**
+- **возможность работать в back-end**
+- **основной язык веб-разработки**
+- **имеет общий стандарт **[ECMASCRIPT]()****
+
+## Динамическая типизация
+
+*Благодаря **[JavaScript]()** на создание интерактива на сайте на стороне клинта тратится меньше ресурсов в отличии от статичных типов языков програмирования. Это значит что на взаимодействие клиента с веб-сайтом нет необходимости производить глобальную загрузку сайта, всё происходит в реальном времени на глазах у клиента.*
+
+## Возможность работать в back-end
+
+*Платформа **[Next.js]()** основанная на **[JavaScript]()** даёт возможность воздвигать серверы, отправлять и принимать запросы, проще говоря работать в Back-end*
+
+![js.image](https://eurobyte.ru/img/articles/chto-takoe-javascript/image9.jpg)
+
+## Основной язык веб-разработки
+
+*В настоящее время на просторах интернета в 90% сайтах есть **[JavaScript]()**. Благодаря **[JavaScript]()** можно создавать сложные механизмы:*
+- **всплывающие окна**
+- **различные уведомления**
+- **анимации**
+
+## Немного о синтаксисе языка
+
+*Основная работа ****[JavaScript]()**** это взаимодействие с окружающей средой, одной средой вывода считается **[console]()***.
+
+![](https://ultimatecourses.com/assets/course/javascript/basics-f7dfd5926ce1de980fbaa52e96432562c1dfb8cd5ed6571b78c1dc831cc53aa8.jpg)
